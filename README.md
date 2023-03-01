@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba del módulo 2 del Soy Henry
+Agustina Casas
+Primer intenti de hacer un repositorio directamente desde GitHub
