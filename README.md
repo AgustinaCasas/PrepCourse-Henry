@@ -1,2 +1,2 @@
 Agustina Casas
-Primer intenti de hacer un repositorio directamente desde GitHub
+Primer intento de hacer un repositorio directamente desde GitHub
